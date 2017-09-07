@@ -1,0 +1,171 @@
+
+ Aug 4 06:16:17 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 4 07:16:30 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 5 08:13:38 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 979] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): Resource temporarily unavailable
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 5 10:05:17 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\a2\a2V5d29yZF9jbGVhbl91cF9kcml2ZXJfZmlsZXM.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 5 11:54:32 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 10 06:45:17 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 10 06:45:18 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 1019] [Level: 2]
+		
+filesize(): stat failed for C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\\Y2\Y29tZXRjaGF0X2xhbmd1YWdl.txt
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 10 06:45:18 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 776] [Level: 2]
+		
+fopen(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\\Y2\Y29tZXRjaGF0X2xhbmd1YWdl.txt): failed to open stream: No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 10 06:45:18 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 776] [Level: 2]
+		
+fopen(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\\Y2\Y29tZXRjaGF0X2xhbmd1YWdl.txt): failed to open stream: No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 10 07:47:53 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 16 06:19:54 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\\Y2\Y29tZXRjaGF0X2xhbmd1YWdl.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 16 10:16:54 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\\Y2\Y29tZXRjaGF0X2NvbG9y.txt): Resource temporarily unavailable
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 16 10:16:54 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 1019] [Level: 2]
+		
+filesize(): stat failed for C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\\Y2\Y29tZXRjaGF0X2xhbmd1YWdl.txt
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 16 10:16:54 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 776] [Level: 2]
+		
+fopen(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\\Y2\Y29tZXRjaGF0X2xhbmd1YWdl.txt): failed to open stream: No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 16 11:31:05 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): Resource temporarily unavailable
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Aug 16 11:31:05 : 		
+****************************
+		
+C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(C:\xampp\htdocs\chat\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\c2\c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 3 07:02:11 : 		
+****************************
+		
+C:\xampp\htdocs\pont\Pontic-Web-3\pontic_dev\cometchat\cometchat_cache.php [L: 772] [Level: 2]
+		
+file_get_contents(C:\xampp\htdocs\pont\Pontic-Web-3\pontic_dev\cometchat\writable\cache\cache.storage.localhost\a2\a2V5d29yZF9jbGVhbl91cF9kcml2ZXJfZmlsZXM.txt): failed to open stream: Resource temporarily unavailable
+		
+print_r(debug_backtrace(),true)
+		
+****************************
